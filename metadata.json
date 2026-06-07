@@ -1,0 +1,6 @@
+{
+  "name": "AI English Tutor",
+  "description": "An interactive English learning application powered by AI. Practice real-world conversations with instant grammar corrections, solve custom quizzes, expand your vocabulary with tailored flashcards, and learn at your own pace.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
